@@ -1,0 +1,153 @@
+
+
+body {
+	font-family: 'Oswald', sans-serif !important;
+	margin: 0px;
+	background-color:white;
+}
+
+#title {
+    text-align: center;
+    border: 1px solid black;
+    width: 280px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 5px 0px;
+}
+
+form {
+    margin: 0 auto;
+    width: 440px;
+}
+
+#video {
+    padding-top: 20px;
+    width: 560px;
+    margin: 0 auto;
+}
+
+img {
+	width: 100%;
+}
+
+.active {background-color:white
+}
+
+.clear {
+	clear: both;
+}
+
+#global-container {
+	max-width:1000px;
+	position: relative;
+	margin: 0 auto;
+}
+
+
+.section-title {
+	font-size: 18px;
+	padding: 10px;
+	background-color:gray;
+	color: white;
+	float: left;
+	border-radius: 5px;
+	font-family: 'Poppins', cursive;
+}
+
+.section-titlte-green {
+	background-color:black !important;
+}
+
+.section-title-orange {
+	background-color: !important;
+}
+
+.intro-info {
+	font-size: 0px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.cols {
+	float: left;
+	font-size: 16px;
+	padding: 10px;
+}
+
+.intro-text {
+	width: 40%;
+}
+
+.intro-image {
+	width: 25%;
+}
+
+.intro-image img {
+	border: 5px solid darkblue;
+
+  	transition: all 0.3s ease-in-out;
+}
+
+.intro-image img:hover {
+	border: 5px solid white;
+	box-shadow: 0px 10px 25px rgba(0,0,0,0.4);
+}
+
+.col-33 {
+	width: 30%;
+}
+
+.col-33 {
+	width: 30%;
+}
+
+
+.views-section {
+	padding: 40px 0px;
+	width: 900px;
+    margin: 0 auto;
+}
+
+.views-section .image-crop {
+	overflow: hidden;
+	border-radius: 100%;
+	box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+	width: 85%;
+    margin: 0 auto;
+    max-height: 230px;
+	border: 5px solid darkblue;
+
+  	transition: all 0.3s ease-in-out;
+}
+
+.views-section .image-crop:hover {
+	border: 5px solid white;
+	box-shadow: 0px 10px 25px rgba(0,0,0,0.4);
+}
+
+.views-text {
+	padding-top: 20px;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.copyright {
+	float: left;
+}
+
+
+.use-image img {
+	border: 5px solid #a4a4a4;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  	transition: all 0.1s ease-in-out;
+}
+
+.use-image img:hover {
+	border: 5px solid #0d3f00;
+	box-shadow: -10px 10px 15px rgba(0,0,0,0.4);
+}
+
+
+}
+
